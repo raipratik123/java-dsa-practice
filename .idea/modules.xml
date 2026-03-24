@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2DArray.java/2DArray.java.iml" filepath="$PROJECT_DIR$/2DArray.java/2DArray.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatternPrinting/PatternPrinting.iml" filepath="$PROJECT_DIR$/PatternPrinting/PatternPrinting.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticeCp/PracticeCp.iml" filepath="$PROJECT_DIR$/PracticeCp/PracticeCp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting.java/Sorting.java.iml" filepath="$PROJECT_DIR$/Sorting.java/Sorting.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/myjavacode.iml" filepath="$PROJECT_DIR$/.idea/myjavacode.iml" />
     </modules>
   </component>
